@@ -1,2 +1,2 @@
-# Arabic POS Tagging
- based on Journal: Arabic POS Tagging using KNN and Naive Bayes Classifiers Combinations
+# DM_Part-of-Speech-Tagging-on-Al-Qur'an-using-Combination-of-K-Nearest-Neighbours-and-Naive-Bayes
+A collaborative project with Yulianti Gusniar that will be used in her Study of Literature course: "Part-of-Speech Tagging Al-Qur’an Menggunakan Kombinasi K-Nearest Neighbors dan Naive-Bayes Classifier", which tagging terms on Al-Qur'an using K-Nearest-Neighbors (KKN) and Naive-Bayes classifiers combination. The methods used in this project are based on a journal: "Arabic POS Tagging using KNN and Naive Bayes Classifiers Combinations", by Rund Mahafdah, Nazlia Omar and Omaia Al-Omari.
